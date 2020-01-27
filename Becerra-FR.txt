@@ -1,0 +1,3 @@
+1: The system shall show the user the showtimes of a movie theater of their choice 
+2: The system shall provide the user the possibility to manage their preferences about movies and theaters   
+3: The system shall notify the user when a movie matching their preferences is coming out   
